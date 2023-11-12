@@ -1,0 +1,89 @@
+body {
+    transition: background-color 0.5s ease-in-out;
+  }
+  
+  .jumbotron {
+    background-color: #F8F9FA;
+  }
+  
+  footer {
+    margin-top: 20px;
+  }
+  
+  /* Add any additional styling as needed */
+/* Custom styles for the navbar */
+.navbar {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #fff;
+    opacity: 0.8;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #fff;
+  }
+  
+
+  body {
+    background-image: url("LOGO-2.jpg");
+    background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  }
+
+  .text-primary {
+    color: greenyellow;
+  }
+  
+  .text-secondary {
+    color: orangered;
+  }
+  
+  .translucent-jumbotron {
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+  body {
+    font-weight: bold;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+  }
+  .color-change {
+    color: #FFC0CB ; 
+  }
+
+  .glass-effect {
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+
+  .carousel-inner .carousel-item img {
+    max-width: 300px;
+    height: auto;
+  }
+
+  .translucent-jumbotron {
+    background-color: rgba(75, 71, 71, 0.568);/* Translucent white background */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+  }
+
+  p {
+    font-size: 1.6em; /* You can adjust the value as needed */
+  }
+  
+  
+  
